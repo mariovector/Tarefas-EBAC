@@ -1,0 +1,16 @@
+1 - Fefê está em casa? Sim
+   1 - levar Fefê pra fazer xixi
+   2 - oferecer água pra ele
+   3 - conversar com ele sobre como foi a noite
+   4 - convidar ele pra tomar café junto
+   5 - preparar p café pra nós dois
+   6 - dar o café da manhã pra ele enquanto leio as notícias
+   
+2 - Fefê está em casa? Não
+   1 - Desligar despertador
+   2 - tomar água
+   3 - ir ao banheiro
+   4 - escovar os dentes
+   5 - preparar café
+   6 - ler as notícias tomando café
+   7 - Mandar mensagem para a mãe do Fefê pra saber dele :)    
