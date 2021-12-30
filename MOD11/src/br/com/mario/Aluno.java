@@ -1,8 +1,5 @@
 package br.com.mario;
 
-import java.util.Objects;
-
-
 public class  Aluno{
 	
 	private String nome;
@@ -10,10 +7,10 @@ public class  Aluno{
 	private int idade;
 	private String status;
 	
-	public Aluno (String nome, String genero, int string, String status) {
+	public Aluno (String nome, String genero, int idade, String status) {
 		this.nome=nome;
 		this.genero=genero;
-		this.idade=string;
+		this.idade=idade;
 		this.status=status;
 		
 	}
@@ -52,12 +49,16 @@ public class  Aluno{
 	}
 
 
-
-
 	@Override
 	public String toString() {
 		return "Aluno [nome=" + nome + ", genero=" + genero + ", idade=" + idade + ", status=" + status + "]";
 	}
+
+
+
+
+	
+	}
 	
 
-}
+
